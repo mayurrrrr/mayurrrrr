@@ -34,9 +34,6 @@
 </p>
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mayurrrrr&theme=dark&hide_border=false" alt="GitHub Streak"/>
