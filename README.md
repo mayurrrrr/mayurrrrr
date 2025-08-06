@@ -42,6 +42,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=mayurrrrr&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=false&layout=compact)
 </p>
 
 
