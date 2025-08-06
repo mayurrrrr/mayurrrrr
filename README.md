@@ -43,8 +43,14 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
   <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=false&layout=compact)
 </p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurrrrr&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
 
 
 
