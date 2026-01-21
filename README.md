@@ -36,14 +36,8 @@
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <br/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
   <br/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurrrrr&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 
