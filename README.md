@@ -48,5 +48,5 @@
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=mayurrrrr&theme=dark&hide_border=true" />
 </div>
