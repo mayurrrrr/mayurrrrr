@@ -1,62 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mayur Arvindh</h1>
-<h3 align="center">Full Stack & AI Developer | Building intelligent, user-friendly products that scale</h3>
+<div align="center">
 
-- 🔭 Currently working on **Virtual Wheels – AI-powered wheel customization tool**
+# Hi, I'm Mayur Arvindh 👋
 
-- 🌱 Learning **AI agent workflows, automation, and scalable SaaS architecture**
+**Full Stack & AI Developer · Building intelligent, user-friendly products that scale**
 
-- 👯 Open to collaborating on **AI-powered automotive and productivity tools**
+![Open to collabs](https://img.shields.io/badge/Open%20to%20Collabs-brightgreen?style=flat-square)
+![Based in Sri Lanka](https://img.shields.io/badge/Based%20in-Sri%20Lanka-blue?style=flat-square)
+![AI × Automotive](https://img.shields.io/badge/AI%20%C3%97%20Automotive-orange?style=flat-square)
 
-- 🤝 Looking for help with **growing and scaling SaaS products**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-arvindh/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mayurarvindh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://mayur-arvindh.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mayurarvindh@gmail.com)
 
-- 👨‍💻 Portfolio: [mayur-arvindh.netlify.app](https://mayur-arvindh.netlify.app/)
-
-- 📝 Blog: [medium.com/@mayurarvindh](https://medium.com/@mayurarvindh)
-
-- 💬 Ask me about **Node.js, React, Streamlit, YOLOv8, RAG, Generative AI**
-
-- 📫 Reach me at **mayurarvindh@gmail.com**
-
-- 📄 Résumé: [mayur-arvindh.netlify.app](https://mayur-arvindh.netlify.app/)
-
-- ⚡ Fun fact: **People call me a car nerd 😄**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mayur-arvindh/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@mayurarvindh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
+</div>
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
-  <br/>
-</p>
 
+## About me
 
+| | |
+|---|---|
+| 🔭 **Building** | Virtual Wheels — AI-powered wheel customization |
+| 🌱 **Learning** | AI agent workflows, automation & scalable SaaS |
+| 👯 **Collaborate on** | AI-powered automotive & productivity tools |
+| 💬 **Ask me about** | Node.js, React, YOLOv8, RAG, Generative AI |
+| 📝 **Writing** | [medium.com/@mayurarvindh](https://medium.com/@mayurarvindh) |
+| ⚡ **Fun fact** | People call me a car nerd 😄 |
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=mayurrrrr&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech stack
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+---
 
-<p align="center">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" height="40"/></a>
-  <a href="https://www.tensorflow.org/js"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow.js" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-</p>
+## GitHub stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrrrr&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
