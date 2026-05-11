@@ -2,7 +2,7 @@
 
 # Hi, I'm Mayur Arvindh 👋
 
-**Full Stack & AI Developer · Building intelligent, user-friendly products that scale**
+**Full Stack & AI Engineer · Building intelligent, user-friendly products that scale**
 
 ![Open to collabs](https://img.shields.io/badge/Open%20to%20Collabs-brightgreen?style=flat-square)
 ![Based in Sri Lanka](https://img.shields.io/badge/Based%20in-Sri%20Lanka-blue?style=flat-square)
